@@ -1,0 +1,15 @@
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\bin\Debug\Plan-Args.exe.config
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\bin\Debug\Plan-Args.exe
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\bin\Debug\Plan-Args.pdb
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\Plan-Args.csprojAssemblyReference.cache
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\MainWindow.g.cs
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\App.g.cs
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\Plan-Args_MarkupCompile.cache
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\Plan-Args_MarkupCompile.lref
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\MainWindow.baml
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\Plan-Args.g.resources
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\Plan_Args.Properties.Resources.resources
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\Plan-Args.csproj.GenerateResource.cache
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\Plan-Args.csproj.CoreCompileInputs.cache
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\Plan-Args.exe
+C:\Users\Medoo\Documents\GitHub\Plan-Args\Plan-Args\obj\Debug\Plan-Args.pdb
